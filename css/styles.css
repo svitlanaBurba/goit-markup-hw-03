@@ -147,6 +147,19 @@ img {
 /* Hero */
 .hero {
   text-align: center;
+  max-width: 1600px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-image: url('../images/overlay.jpg');
+  outline: 1px solid tomato; */
+}
+.hero-container {
+  width: 700px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .hero-title {
   margin-top: 0px;
